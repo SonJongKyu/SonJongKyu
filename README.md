@@ -79,6 +79,55 @@
 
 <br>
 
+<h3 align="center">🚀 Projects 🚀</h3>
+
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SonJongKyu&theme=github"/>
+
+<b>📈 News-driven Stock Prediction</b><br>
+News sentiment analysis 기반 주가 예측 모델 (Master Thesis)
+
+<a href="https://github.com/SonJongKyu/news-driven-stock-prediction">
+<img src="https://gh-card.dev/repos/SonJongKyu/news-driven-stock-prediction.svg"/>
+</a>
+
+<br><br>
+
+<b>🤖 LLM AI Chatbot</b><br>
+LLM 기반 대화형 AI 챗봇 시스템
+
+<a href="https://github.com/SonJongKyu/chatbot">
+<img src="https://gh-card.dev/repos/SonJongKyu/chatbot.svg"/>
+</a>
+
+<br><br>
+
+<b>🔎 RAG Chatbot</b><br>
+Retrieval-Augmented Generation 기반 지식 검색 챗봇
+
+<a href="https://github.com/SonJongKyu/RAG_Chatbot">
+<img src="https://gh-card.dev/repos/SonJongKyu/RAG_Chatbot.svg"/>
+</a>
+
+<br><br>
+
+<b>🧠 ReAct Agent Chatbot</b><br>
+LangChain 기반 ReAct Agent 아키텍처 챗봇 시스템
+
+<a href="https://github.com/SonJongKyu/ReAct-Agent-Chatbot">
+<img src="https://gh-card.dev/repos/SonJongKyu/ReAct-Agent-Chatbot.svg"/>
+</a>
+
+<br><br>
+
+<b>🍷 AI Drink Recommendation</b><br>
+사용자 취향 기반 AI 주류 추천 시스템
+
+<a href="https://gh-card.dev/repos/SonJongKyu/Drink.svg">
+<img src="https://gh-card.dev/repos/SonJongKyu/Drink.svg"/>
+</a>
+
 </div>
+
+<br>
+
+
