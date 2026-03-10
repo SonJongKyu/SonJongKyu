@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SonJongKyu/portfolio">
+<a href="https://sonjongkyu.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
