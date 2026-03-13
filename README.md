@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://mighty-pint-0ae.notion.site/Profile-2303bead722c80ddaec0d94e80cadd4e">
+<a href="https://mighty-pint-0ae.notion.site/37f3bead722c82b7ac9701ef3a37d9a1?source=copy_link">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 
